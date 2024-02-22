@@ -1,0 +1,11 @@
+pattern,response
+hello|hi|hey,Hello!, Hi there!, Hey!
+how are you,I am good, thank you!, I am doing well, how about you?
+what is your favorite color,I am just a computer program, so I don't have a favorite color.
+who created you,I was created by developers using Python and NLTK.
+how old are you,I don't have an age. I am a piece of software.
+where are you from,I exist in the digital world, so I don't have a physical location.
+bye|goodbye,Goodbye!, Take care!, See you later!
+tell me a joke,Why don't scientists trust atoms? Because they make up everything!, How does a penguin build its house? Igloos it together!
+what's your favorite food,I don't eat, but I'd probably like some bits and bytes!
+what is the meaning of life,The meaning of life is a philosophical question. Some say it's 42 while others have different perspectives.
